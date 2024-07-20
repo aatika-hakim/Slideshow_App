@@ -10,7 +10,8 @@
     "h8k-design": "^1.0.16",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "save": "^2.3.1"
+    "save": "^2.3.1",
+    "vercel": "^35.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
