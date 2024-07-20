@@ -5,3 +5,25 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.header {
+  height: 32px;
+  display: flex;
+  align-items: center; /* Vertically center the items */
+  justify-content: center; /* Horizontally center the items */
+  background-color: #424547; /* Light background color */
+  padding: 10px 20px; /* Padding for spacing */
+  border-bottom: 1px solid #dee2e6; /* Border for separation */
+}
+
+.header img {
+  width: 24px; /* Width of the favicon */
+  height: 24px; /* Height of the favicon */
+  margin-right: 10px; /* Space between the icon and the text */
+}
+
+.header span {
+  font-size: 20px; /* Font size for the header text */
+  font-weight: bold; /* Bold text for emphasis */
+  color: rgb(51, 153, 41); 
+}
